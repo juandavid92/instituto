@@ -1,0 +1,37 @@
+.content-loggin{
+	width: 80%;
+	border: 1px solid gray;
+	border-radius: 5px;
+	margin: 20px auto;
+	min-height: 400px;
+}
+.content-loggin header{
+	width: 100%;
+	height: 100px;
+	padding: 10px;
+	background-color: #333;
+	text-align: center;
+	color: white;
+	font-family: arial;
+	font-weight: bold;
+}
+.content-loggin .form-horizontal{
+	margin: auto;
+	width: 50%; 
+	padding: 30px;
+	margin-top: 30px;
+}
+.btn-default{
+	background-color: #333;
+    height: 50px;
+    width: 48%;
+    color: white;
+    margin-left: 0px;
+    border-radius: 0px;
+}
+.btn-default:hover{
+	opacity: 0.5;
+}
+.registro-show{
+	display: none;
+}
